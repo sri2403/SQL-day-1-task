@@ -41,6 +41,6 @@ For additional SQL exercises and learning resources, you can also visit SQLBolt.
 
 ![task-18](task-18.png)
 
-![completed page](last completion page.png)
+![completed-page](last completion page.png)
 
 
